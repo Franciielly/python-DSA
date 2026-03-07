@@ -1,4 +1,4 @@
-# 🐍Python: Do Básico à Aplicação em IA
+# 🐍Python: Do Básico a Aplicação em IA
 
 Repositório com exercícios, projetos e anotações do curso Python Fundamentos para Análise de Dados e Data Science da Data Science Academy.
 
